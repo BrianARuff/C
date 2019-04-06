@@ -3,5 +3,5 @@
         "*.js": "javascriptreact",
         "string.h": "c"
     },
-    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
 }
